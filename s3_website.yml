@@ -1,6 +1,6 @@
 s3_id: AKIAIORHNROKPSHS4IBQ
 s3_secret: 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
-s3_bucket: williamdalpe.engineering
+s3_bucket: williamdalpe.com
 
 # set s3_token if using temporary credentials with a session token (eg: when assuming a role)
 # s3_token: YOUR_AWS_S3_SESSION_TOKEN
